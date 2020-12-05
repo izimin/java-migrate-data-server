@@ -5,7 +5,7 @@
  - Java 8
  - Maven
  - hikaricp
- - postgrsql
+ - postgresql
  - rsa
  - des
  - socket
